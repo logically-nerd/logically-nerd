@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/logically-nerd/logically-nerd/blob/main/Untitled.png)
-<h1 align="center">Hi 👋, I'm Adnan Shahid</h1>
-<h3 align="center">A passionate developer exploring vast field of technology.</h3>
+<h1 align="center">Hi, It's Adnan Shahid</h1>
+<h3 align="center">A newbie developer exploring vast field of technology.</h3>
 <img align="right" alt="Coding.exe" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZoqYyGVgtXbG8miq34hJIEQ0i6PX632Kvg&usqp=CAU">
 
 - 🔭 I’m currently working on **few projects of my own.**
