@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/logically-nerd/logically-nerd/blob/main/Untitled.png)
+![MasterHead](https://github.com/logically-nerd/logically-nerd/blob/main/Banner.png)
 <h1 align="center">Hi, It's Adnan Shahid</h1>
 <h3 align="center">A newbie developer exploring vast field of technologies.</h3>
 <img align="right" alt="Coding.exe" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNZoqYyGVgtXbG8miq34hJIEQ0i6PX632Kvg&usqp=CAU">
