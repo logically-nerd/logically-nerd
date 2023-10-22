@@ -2,7 +2,7 @@
 <h1 align="center">
     Hi, I am Adnan Shahid👋
   <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=712FB7&center=true&vCenter=true&random=true&width=400&lines=A+Backend+Developer;An+AI%2FML+Enthusiast;A+Designer" alt="About Myself" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=true&width=400&lines=A+Backend+Developer;An+AI%2FML+Enthusiast;A+Designer" alt="About Myself" />
 </h1>
 
 <div>
