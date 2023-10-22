@@ -13,15 +13,15 @@
   Let's connect and innovate for the future.
 </div>
 <br>
-<div align="right">
+<div align="center">
   <a href="mailto:adnansh2804@gmail.com" title="Email">
-    <img src="Resources/icons8-gmail-480.png" alt="Email" width=40 height=40>
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Email">
   </a>
   <a href="https://www.linkedin.com/in/logically-nerd/" title="LinkedIn">
-    <img src="Resources/icons8-linkedin-240.png" alt="LinkedIn" width=40 height=40>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://logically-nerd.co/" title="Portfolio">
-    <img src="Resources/icons8-portfolio-64.png" alt="Portfolio" width=40 height=40>
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
   </a>
 </div>
 
