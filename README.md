@@ -12,16 +12,16 @@
   -Committed to building user-centric, eco-friendly solutions<br>
   Let's connect and innovate for the future.
 </div>
-
-<div align="center">
-  <a href="mailto:adnansh2804@gmail.com" title="Email" target="_blank">
-    <img src="" alt="Email">
+<br>
+<div align="right">
+  <a href="mailto:adnansh2804@gmail.com" title="Email">
+    <img src="Resources/icons8-gmail-480.png" alt="Email" width=40 height=40>
   </a>
-  <a href="https://www.linkedin.com/in/logically-nerd/" title="LinkedIn" target="_blank">
-    <img src="" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/logically-nerd/" title="LinkedIn">
+    <img src="Resources/icons8-linkedin-240.png" alt="LinkedIn" width=40 height=40>
   </a>
-  <a href="https://logically-nerd.co/" title="Portfolio" target="_blank">
-    <img src="" alt="Portfolio">
+  <a href="https://logically-nerd.co/" title="Portfolio">
+    <img src="Resources/icons8-portfolio-64.png" alt="Portfolio" width=40 height=40>
   </a>
 </div>
 
