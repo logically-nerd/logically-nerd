@@ -6,11 +6,11 @@
 </h1>
 
 <div>
-  -Problem-solving enthusiast with a strong foundation in Data Structures and Algorithms (DSA)<br>
-  -Expertise in Java, currently broadening my skills with Python and Web-Dev<br>
-  -Aspiring to make a meaningful impact in AI/ML<br>
-  -Committed to building user-centric, eco-friendly solutions<br>
-  Let's connect and innovate for the future.
+👨‍💻 Mastering Python
+🤖 Diving into AI/ML, GenAI, LLM
+📄 Published a Technical Research Paper
+🧩 Logical Approach to Problem Solving & DSA
+🌟 Let’s Connect and Collaborate!
 </div>
 <br>
 <div align="center">
