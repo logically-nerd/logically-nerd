@@ -6,10 +6,10 @@
 </h1>
 
 <div>
-👨‍💻 Mastering Python
-🤖 Diving into AI/ML, GenAI, LLM
-📄 Published a Technical Research Paper
-🧩 Logical Approach to Problem Solving & DSA
+👨‍💻 Mastering Python<br>
+🤖 Diving into AI/ML, GenAI, LLM<br>
+📄 Published a Technical Research Paper<br>
+🧩 Logical Approach to Problem Solving & DSA<br>
 🌟 Let’s Connect and Collaborate!
 </div>
 <br>
