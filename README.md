@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&center=true&vCenter=true&random=true&width=400&lines=A+Backend+Developer;An+AI%2FML+Enthusiast;A+Designer" alt="About Myself" />
 </h1>
 
-<div>
+<div align="center">
 👨‍💻 Mastering Python<br>
 🤖 Diving into AI/ML, GenAI, LLM<br>
 📄 Published a Technical Research Paper<br>
