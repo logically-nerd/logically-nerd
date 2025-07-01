@@ -20,7 +20,7 @@
   <a href="https://www.linkedin.com/in/logically-nerd/" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://logically-nerd.co/" title="Portfolio">
+  <a href="https://logically-nerd.in/" title="Portfolio">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio">
   </a>
 </div>
@@ -39,8 +39,6 @@
 <h2 align="center">Stats</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=logically-nerd&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Streaks">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=logically-nerd&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" >
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=logically-nerd&show_icons=true&theme=tokyonight">
+  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=logically-nerd&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top Languages" >
 </div>
